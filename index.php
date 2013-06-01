@@ -6,9 +6,7 @@
     </head>
     <body>
         <?php
-        /*
-         * Versió inicial del projecte
-         */
+	// Funció per fer una suma
         ?>
     </body>
 </html>
