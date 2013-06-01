@@ -14,6 +14,10 @@
             return ($a+$b);
         }
         
+        function multiplicacio($a,$b) {
+            return ($a*$b);
+        }
+        
         ?>
     </body>
 </html>
