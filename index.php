@@ -14,6 +14,7 @@
             return ($a+$b);
         }
         
+<<<<<<< HEAD
         function resta($a,$b) {
 	    return ($a-$b);
 	}
@@ -22,6 +23,8 @@
             return ($a*$b);
         }
         
+
+>>>>>>> branch 'master' of https://github.com/albemumo/practica.git
         ?>
     </body>
 </html>
